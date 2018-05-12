@@ -20,6 +20,8 @@ creator:
     gutenberg_agent_id: '39917'
     url: http://www.gutenberg.org/2009/agents/39917
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41687#How-France-Built-Her-CathedralsA-Study-in-the-Twelfth-and-Thirteenth-Centuries
 gutenberg_issued: '2012-12-22'
 gutenberg_type: Text
 identifiers:
