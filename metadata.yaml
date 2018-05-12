@@ -1,0 +1,37 @@
+_repo: How-France-Built-Her-CathedralsA-Study-in-the-Twelfth-and-Thirteenth-Centuries_41687
+_version: 0.1.0
+alternative_title: 'How France Built Her Cathedrals: A Study in the 12th and 13th
+  Centuries'
+contributor:
+  illustrator:
+    agent_name: Leslie, Paul de
+    aliases:
+    - De Leslie, Paul
+    - Leslie, A. Paul de
+    gutenberg_agent_id: '40781'
+    url: http://www.gutenberg.org/2009/agents/40781
+covers:
+- cover_type: archival
+  image_path: 41687-h/images/cover.jpg
+creator:
+  author:
+    agent_name: O'Reilly, Elizabeth Boyle
+    birthdate: 1874
+    gutenberg_agent_id: '39917'
+    url: http://www.gutenberg.org/2009/agents/39917
+description: ''
+gutenberg_issued: '2012-12-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41687'
+  lccn: '21008018'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Architecture, Gothic'
+- !lcc 'NA'
+- !lcsh 'Cathedrals -- France'
+title: 'How France Built Her Cathedrals: A Study in the Twelfth and Thirteenth Centuries'
+url: http://www.gutenberg.org/ebooks/41687
